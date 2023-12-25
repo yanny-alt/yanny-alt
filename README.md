@@ -7,11 +7,13 @@ Data Analyst. Student Pharmacist.
 UNN Pharmacy student by day, Full stack Whiz & Data Analyst by night. Fueled by education, healthcare, SQL queries, dashboard creation & pushing boundaries. Unraveling insights from chaos, one dataset at a time.
 
 * 🌍  I'm based in Enugu, Nigeria
-* 🧠  I'm learning SQL (Structured Query Language)
+* 🧠  I'm currently learning SQL (Structured Query Language)
 * 🤝  I'm open to collaborating on data-driven projects that make a positive impact in healthcare, education, environmental sustainability, or non-profits.
 * 😄 Pronouns: he/him
 * ⚡  I secretly believe I am an Oscar Winner... Psst.. Don't tell anyone yet.
 
+ Looking forward to 2024 for internship opportunities, freelance gigs and hopefully permanent jobs.
+ 
 <a href="https://www.github.com/yanny-alt" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/yanny-alt?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a><a href="https://www.x.com/yannynow" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/yannynow?logo=twitter&style=for-the-badge&color=22c55e&labelColor=1c1917"
