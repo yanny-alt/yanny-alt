@@ -7,7 +7,7 @@ Data Analyst.
 UNN Pharmacy student by day, Full stack Whiz & Data Analyst by night. Fueled by education, healthcare, SQL queries, dashboard creation & pushing boundaries. Unraveling insights from chaos, one dataset at a time.
 
 * 🌍  I'm based in Enugu, Nigeria
-* 🧠  I'm currently learning SQL (Structured Query Language)
+* 🧠  I'm currently learning Python for Data Science 
 * 🤝  I'm open to collaborating on data-driven projects that make a positive impact in healthcare, education, environmental sustainability, or non-profits.
 * 😄 Pronouns: he/him
 * ⚡  I secretly believe I am an Oscar Winner... Psst.. Don't tell anyone yet.
