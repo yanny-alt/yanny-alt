@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Favour Igwezeke (Yanny) 
 ========================================================================================================================================
 
-Data Analyst.
+Data Scientist.
 ---------------------------------
 
 UNN Pharmacy student by day, Full stack Whiz & Data Analyst by night. Fueled by education, healthcare, SQL queries, dashboard creation & pushing boundaries. Unraveling insights from chaos, one dataset at a time.
